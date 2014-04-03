@@ -1,0 +1,12 @@
+.alarmering{
+	margin-bottom: 20px;
+}
+.alarmering:last{
+	margin-bottom: 0px;
+}
+.alarmering-label{
+	font-weight: bold;
+}
+.alarmering-datum{
+	color: grey;
+}
